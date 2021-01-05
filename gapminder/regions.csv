@@ -1,0 +1,197 @@
+﻿country;four_regions;eight_regions;six_regions
+Afghanistan;asia;asia_west;south_asia
+Albania;europe;europe_east;europe_central_asia
+Algeria;africa;africa_north;middle_east_north_africa
+Andorra;europe;europe_west;europe_central_asia
+Angola;africa;africa_sub_saharan;sub_saharan_africa
+Antigua and Barbuda;americas;america_north;america
+Argentina;americas;america_south;america
+Armenia;europe;europe_east;europe_central_asia
+Australia;asia;east_asia_pacific;east_asia_pacific
+Austria;europe;europe_west;europe_central_asia
+Azerbaijan;europe;europe_east;europe_central_asia
+Bahamas;americas;america_north;america
+Bahrain;asia;asia_west;middle_east_north_africa
+Bangladesh;asia;asia_west;south_asia
+Barbados;americas;america_north;america
+Belarus;europe;europe_east;europe_central_asia
+Belgium;europe;europe_west;europe_central_asia
+Belize;americas;america_north;america
+Benin;africa;africa_sub_saharan;sub_saharan_africa
+Bhutan;asia;asia_west;south_asia
+Bolivia;americas;america_south;america
+Bosnia and Herzegovina;europe;europe_east;europe_central_asia
+Botswana;africa;africa_sub_saharan;sub_saharan_africa
+Brazil;americas;america_south;america
+Brunei;asia;east_asia_pacific;east_asia_pacific
+Bulgaria;europe;europe_east;europe_central_asia
+Burkina Faso;africa;africa_sub_saharan;sub_saharan_africa
+Burundi;africa;africa_sub_saharan;sub_saharan_africa
+Cambodia;asia;east_asia_pacific;east_asia_pacific
+Cameroon;africa;africa_sub_saharan;sub_saharan_africa
+Canada;americas;america_north;america
+Cape Verde;africa;africa_sub_saharan;sub_saharan_africa
+Central African Republic;africa;africa_sub_saharan;sub_saharan_africa
+Chad;africa;africa_sub_saharan;sub_saharan_africa
+Chile;americas;america_south;america
+China;asia;east_asia_pacific;east_asia_pacific
+Colombia;americas;america_south;america
+Comoros;africa;africa_sub_saharan;sub_saharan_africa
+Congo Dem. Rep.;africa;africa_sub_saharan;sub_saharan_africa
+Costa Rica;americas;america_north;america
+Cote d'Ivoire;africa;africa_sub_saharan;sub_saharan_africa
+Croatia;europe;europe_east;europe_central_asia
+Cuba;americas;america_north;america
+Cyprus;europe;europe_west;europe_central_asia
+Czech Republic;europe;europe_east;europe_central_asia
+Denmark;europe;europe_west;europe_central_asia
+Djibouti;africa;africa_north;middle_east_north_africa
+Dominica;americas;america_north;america
+Dominican Republic;americas;america_north;america
+Ecuador;americas;america_south;america
+Egypt;africa;africa_north;middle_east_north_africa
+El Salvador;americas;america_north;america
+Equatorial Guinea;africa;africa_sub_saharan;sub_saharan_africa
+Eritrea;africa;africa_sub_saharan;sub_saharan_africa
+Estonia;europe;europe_east;europe_central_asia
+Ethiopia;africa;africa_sub_saharan;sub_saharan_africa
+Fiji;asia;east_asia_pacific;east_asia_pacific
+Finland;europe;europe_east;europe_central_asia
+France;europe;europe_west;europe_central_asia
+Gabon;africa;africa_sub_saharan;sub_saharan_africa
+Gambia;africa;africa_sub_saharan;sub_saharan_africa
+Georgia;europe;europe_east;europe_central_asia
+Germany;europe;europe_west;europe_central_asia
+Ghana;africa;africa_sub_saharan;sub_saharan_africa
+Greece;europe;europe_west;europe_central_asia
+Grenada;americas;america_north;america
+Guatemala;americas;america_north;america
+Guinea;africa;africa_sub_saharan;sub_saharan_africa
+Guinea-Bissau;africa;africa_sub_saharan;sub_saharan_africa
+Guyana;americas;america_south;america
+Haiti;americas;america_north;america
+Holy See;europe;europe_west;europe_central_asia
+Honduras;americas;america_north;america
+Hong Kong;asia;east_asia_pacific;east_asia_pacific
+Hungary;europe;europe_east;europe_central_asia
+Iceland;europe;europe_west;europe_central_asia
+India;asia;asia_west;south_asia
+Indonesia;asia;east_asia_pacific;east_asia_pacific
+Iran;asia;asia_west;middle_east_north_africa
+Iraq;asia;asia_west;middle_east_north_africa
+Ireland;europe;europe_west;europe_central_asia
+Israel;asia;asia_west;middle_east_north_africa
+Italy;europe;europe_west;europe_central_asia
+Jamaica;americas;america_north;america
+Japan;asia;east_asia_pacific;east_asia_pacific
+Jordan;asia;asia_west;middle_east_north_africa
+Kazakhstan;asia;asia_west;europe_central_asia
+Kenya;africa;africa_sub_saharan;sub_saharan_africa
+Kiribati;asia;east_asia_pacific;east_asia_pacific
+North Korea;asia;east_asia_pacific;east_asia_pacific
+South Korea;asia;east_asia_pacific;east_asia_pacific
+Kuwait;asia;asia_west;middle_east_north_africa
+Kyrgyz Republic;asia;asia_west;europe_central_asia
+Lao;asia;east_asia_pacific;east_asia_pacific
+Latvia;europe;europe_east;europe_central_asia
+Lebanon;asia;asia_west;middle_east_north_africa
+Lesotho;africa;africa_sub_saharan;sub_saharan_africa
+Liberia;africa;africa_sub_saharan;sub_saharan_africa
+Libya;africa;africa_north;middle_east_north_africa
+Liechtenstein;europe;europe_west;europe_central_asia
+Lithuania;europe;europe_east;europe_central_asia
+Luxembourg;europe;europe_west;europe_central_asia
+Macedonia;europe;europe_east;europe_central_asia
+Madagascar;africa;africa_sub_saharan;sub_saharan_africa
+Malawi;africa;africa_sub_saharan;sub_saharan_africa
+Malaysia;asia;east_asia_pacific;east_asia_pacific
+Maldives;asia;asia_west;south_asia
+Mali;africa;africa_sub_saharan;sub_saharan_africa
+Malta;europe;europe_west;europe_central_asia
+Marshall Islands;asia;east_asia_pacific;east_asia_pacific
+Mauritania;africa;africa_sub_saharan;sub_saharan_africa
+Mauritius;africa;africa_sub_saharan;sub_saharan_africa
+Mexico;americas;america_north;america
+Micronesia;asia;east_asia_pacific;east_asia_pacific
+Moldova;europe;europe_east;europe_central_asia
+Monaco;europe;europe_west;europe_central_asia
+Mongolia;asia;east_asia_pacific;east_asia_pacific
+Montenegro;europe;europe_east;europe_central_asia
+Morocco;africa;africa_north;middle_east_north_africa
+Mozambique;africa;africa_sub_saharan;sub_saharan_africa
+Myanmar;asia;east_asia_pacific;east_asia_pacific
+Namibia;africa;africa_sub_saharan;sub_saharan_africa
+Nauru;asia;east_asia_pacific;east_asia_pacific
+Nepal;asia;asia_west;south_asia
+Netherlands;europe;europe_west;europe_central_asia
+New Zealand;asia;east_asia_pacific;east_asia_pacific
+Nicaragua;americas;america_north;america
+Niger;africa;africa_sub_saharan;sub_saharan_africa
+Nigeria;africa;africa_sub_saharan;sub_saharan_africa
+Norway;europe;europe_west;europe_central_asia
+Oman;asia;asia_west;middle_east_north_africa
+Pakistan;asia;asia_west;south_asia
+Palau;asia;east_asia_pacific;east_asia_pacific
+Panama;americas;america_north;america
+Papua New Guinea;asia;east_asia_pacific;east_asia_pacific
+Paraguay;americas;america_south;america
+Peru;americas;america_south;america
+Philippines;asia;east_asia_pacific;east_asia_pacific
+Poland;europe;europe_west;europe_central_asia
+Portugal;europe;europe_west;europe_central_asia
+Qatar;asia;asia_west;middle_east_north_africa
+Romania;europe;europe_east;europe_central_asia
+Russia;europe;europe_east;europe_central_asia
+Rwanda;africa;africa_sub_saharan;sub_saharan_africa
+St. Kitts and Nevis;americas;america_north;america
+St. Lucia;americas;america_north;america
+St. Vincent and the Grenadines;americas;america_north;america
+Samoa;asia;east_asia_pacific;east_asia_pacific
+San Marino;europe;europe_west;europe_central_asia
+Sao Tome and Principe;africa;africa_sub_saharan;sub_saharan_africa
+Saudi Arabia;asia;asia_west;middle_east_north_africa
+Senegal;africa;africa_sub_saharan;sub_saharan_africa
+Serbia;europe;europe_east;europe_central_asia
+Seychelles;africa;africa_sub_saharan;sub_saharan_africa
+Sierra Leone;africa;africa_sub_saharan;sub_saharan_africa
+Singapore;asia;east_asia_pacific;east_asia_pacific
+Slovak Republic;europe;europe_east;europe_central_asia
+Slovenia;europe;europe_east;europe_central_asia
+Solomon Islands;asia;east_asia_pacific;east_asia_pacific
+Somalia;africa;africa_sub_saharan;sub_saharan_africa
+South Africa;africa;africa_sub_saharan;sub_saharan_africa
+Spain;europe;europe_west;europe_central_asia
+Sri Lanka;asia;asia_west;south_asia
+Sudan;africa;africa_sub_saharan;sub_saharan_africa
+Suriname;americas;america_south;america
+Swaziland;africa;africa_sub_saharan;sub_saharan_africa
+Sweden;europe;europe_west;europe_central_asia
+Switzerland;europe;europe_west;europe_central_asia
+Syria;asia;asia_west;middle_east_north_africa
+Taiwan;asia;east_asia_pacific;east_asia_pacific
+Tajikistan;asia;asia_west;europe_central_asia
+Tanzania;africa;africa_sub_saharan;sub_saharan_africa
+Thailand;asia;east_asia_pacific;east_asia_pacific
+Timor-Leste;asia;east_asia_pacific;east_asia_pacific
+Togo;africa;africa_sub_saharan;sub_saharan_africa
+Tonga;asia;east_asia_pacific;east_asia_pacific
+Trinidad and Tobago;americas;america_north;america
+Tunisia;africa;africa_north;middle_east_north_africa
+Turkey;europe;europe_east;europe_central_asia
+Turkmenistan;asia;asia_west;europe_central_asia
+Tuvalu;asia;east_asia_pacific;east_asia_pacific
+Uganda;africa;africa_sub_saharan;sub_saharan_africa
+Ukraine;europe;europe_east;europe_central_asia
+United Arab Emirates;asia;asia_west;middle_east_north_africa
+United Kingdom;europe;europe_west;europe_central_asia
+United States;americas;america_north;america
+Uruguay;americas;america_south;america
+Uzbekistan;asia;asia_west;europe_central_asia
+Vanuatu;asia;east_asia_pacific;east_asia_pacific
+Venezuela;americas;america_south;america
+Palestine;asia;asia_west;middle_east_north_africa
+Vietnam;asia;east_asia_pacific;east_asia_pacific
+Yemen;asia;asia_west;middle_east_north_africa
+Zambia;africa;africa_sub_saharan;sub_saharan_africa
+Zimbabwe;africa;africa_sub_saharan;sub_saharan_africa
+South Sudan;africa;africa_sub_saharan;sub_saharan_africa
