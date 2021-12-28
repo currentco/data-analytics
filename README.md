@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-### Data Analytics projects with Python & Jupyter Notebook
+### Data Analytics projects with Python, pandas, NumPy & Jupyter Notebook
 
 - [Gapminder](https://github.com/currentco/data-analytics/tree/main/gapminder): Data Wrangling, Data Analysis
 - [A/B Test Analysis](https://github.com/currentco/data-analytics/tree/main/ab-testing): Probability, A/B Testing, Regression, Statistics
