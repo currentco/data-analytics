@@ -1,6 +1,6 @@
 # Gapminder Data Analysis for Country Development
 
-In this report, I have selected the following datasets for analysis from the Gapminder foundation's database.
+In this report, I have selected the following datasets for analysis from the Gapminder foundation's database:
 
 - Total GDP (PPP, inflation-adjusted): PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. A PPP dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. Data are in constant 2005 international dollars.
 - Total population
