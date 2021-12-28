@@ -17,7 +17,7 @@ The questions I'm planning on exploring are:
 
 ## About the Dataset
 
-Gapminder foundation's database: (https://www.gapminder.org/data/)
+Gapminder foundation's database: https://www.gapminder.org/data/
 
 ## License
 
