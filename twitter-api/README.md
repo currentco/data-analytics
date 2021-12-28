@@ -1,10 +1,10 @@
 # Twitter Data Wrangling
 
-#### The goal
+### The goal
 
 To wrangle WeRateDogs Twitter data to create analyses and visualizations.
 
-#### The steps
+### The steps
 
 - Data wrangling
 - Gathering data
