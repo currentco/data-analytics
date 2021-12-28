@@ -22,4 +22,5 @@ Gapminder foundation's database: https://www.gapminder.org/data/
 ## License
 
 Copyright (c) 2021 Eevamaija Virtanen
+
 This project is licensed under the terms of the MIT license.
