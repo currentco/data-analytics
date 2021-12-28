@@ -6,12 +6,12 @@ To wrangle WeRateDogs Twitter data to create analyses and visualizations.
 
 #### The steps
 
-Data wrangling
-Gathering data
-Assessing data
-Cleaning data
-Storing, analyzing, and visualizing the wrangled data
-Reporting on the data wrangling efforts, data analyses and visualizations
+- Data wrangling
+- Gathering data
+- Assessing data
+- Cleaning data
+- Storing, analyzing, and visualizing the wrangled data
+- Reporting on the data wrangling efforts, data analyses and visualizations
 
 ## About the Dataset
 
