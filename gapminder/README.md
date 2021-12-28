@@ -9,7 +9,7 @@ In this report, I have selected the following datasets for analysis from the Gap
 - Child mortality (0-5 year-olds dying per 1000 born): Death of children under five years of age per 1,000 live births.
 - Life expectancy (years): The average number of years a newborn child would live if current mortality patterns were to stay the same.
 
-The questions I'm planning on exploring are:
+The questions I am exploring are:
 
 - Which countries have shown the least and the most development measured by these datasets and given variables between 1970 and 2009?
 - What is the least and the most developed country in the world with the variables given?
