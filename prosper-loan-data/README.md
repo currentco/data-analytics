@@ -17,4 +17,4 @@ The borrowers with higher interest rates, lower prosper ratings, lower monthly i
 
 ## Key Insights for Presentation
 
-For the presentation, I focus on the process of data exploration and it's different stages. I start by introducing single variables and combining them with other categorical and numerical variables, followed by investigating and thoroughly plotting the relationships of selected variables. I will be using a multitude of different plots and coloring as appropriate.
+For the presentation, I focused on the process of data exploration and it's different stages. I started by introducing single variables and combining them with other categorical and numerical variables, followed by investigating and thoroughly plotting the relationships of selected variables. I also used a multitude of different plots and coloring as appropriate.
