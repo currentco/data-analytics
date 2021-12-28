@@ -1,6 +1,4 @@
 # Prosper Loan Data Exploration
-## by Eevamaija Virtanen
-
 
 ## Dataset
 
@@ -18,3 +16,9 @@ The borrowers with higher interest rates, lower prosper ratings, lower monthly i
 ## Key Insights for Presentation
 
 For the presentation, I focused on the process of data exploration and it's different stages. I started by introducing single variables and combining them with other categorical and numerical variables, followed by investigating and thoroughly plotting the relationships of selected variables. I also used a multitude of different plots and coloring as appropriate.
+
+## License
+
+Copyright (c) 2021 Eevamaija Virtanen
+
+This project is licensed under the terms of the MIT license.
