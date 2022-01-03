@@ -7,6 +7,6 @@
 - [Prosper Loan Analysis](https://github.com/currentco/data-analytics/tree/main/prosper-loan-data): Data Cleaning, Data Analysis, Exploratory & Explanatory Data Visualization
 - [Twitter Data Analysis](https://github.com/currentco/data-analytics/tree/main/twitter-api): Data Wrangling, Twitter API
 
-### Predictive Analytics projects with Alteryx
+### Predictive Analytics projects
 
 - [Store Formats](https://github.com/currentco/data-analytics/tree/main/store_formats): Clustering Models, Cluster Predicting, Forecasted Sales, ETS, ARIMA
