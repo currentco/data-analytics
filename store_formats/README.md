@@ -16,7 +16,7 @@ The borrowers with higher interest rates, lower prosper ratings, lower monthly i
 
 First, I determined store segments for existing stores by clustering with the K-Means Clustering method which calculated the Adjusted Rand and Calinski-Harabasz indices based on the sales data and more specifically category sales as a percentage of total store sales. The optimal number of store formats according to the highest median was 3.
 
-https://github.com/currentco/data-analytics/blob/main/store_formats/tableau_viz.png
+![Store segments](https://github.com/currentco/data-analytics/blob/main/store_formats/tableau_viz.png)
 
 
 
